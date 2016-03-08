@@ -14,14 +14,21 @@
 \thispagestyle {empty}
 \contentsline {section}{\hbox to\@tempdima {1.5\hfil } Población departamental del 2008 }{5}{section*.6}
 \thispagestyle {empty}
+<<<<<<< HEAD
 \contentsline {section}{\hbox to\@tempdima {1.6\hfil } Población departamental del 2015 }{6}{section*.7}
 \thispagestyle {empty}
 \contentsline {section}{\hbox to\@tempdima {1.7\hfil } Densidad poblacional departamental del 2008 }{7}{section*.8}
+=======
+\contentsline {section}{\hbox to\@tempdima {1.6\hfil } Densidad poblacional departamental del 2008 }{6}{section*.7}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {1.7\hfil } Población departamental del 2015 }{7}{section*.8}
+>>>>>>> origin/master
 \thispagestyle {empty}
 \contentsline {section}{\hbox to\@tempdima {1.8\hfil } Densidad poblacional departamental del 2015 }{8}{section*.9}
 \thispagestyle {empty}
 \contentsline {section}{\hbox to\@tempdima {1.9\hfil } Índice de desarrollo humano }{9}{section*.10}
 \thispagestyle {empty}
+<<<<<<< HEAD
 \contentsline {section}{\hbox to\@tempdima {1.10\hfil } IDH en los departamentos}{10}{section*.11}
 \thispagestyle {empty}
 \contentsline {section}{\hbox to\@tempdima {1.11\hfil } Calidad de la vivienda en los departamentos}{11}{section*.12}
@@ -33,12 +40,29 @@
 \contentsline {section}{\hbox to\@tempdima {1.14\hfil } Acceso a servicios de saneamiento}{14}{section*.15}
 \thispagestyle {empty}
 \contentsline {section}{\hbox to\@tempdima {1.15\hfil } Pobreza total }{15}{section*.16}
+=======
+\contentsline {section}{\hbox to\@tempdima {1.10\hfil } Índice de desarrollo humano para los departamentos}{10}{section*.11}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {1.11\hfil } Hogares que no poseen vivienda}{11}{section*.12}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {1.12\hfil } Hogares que viven en hacinamiento}{12}{section*.13}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {1.13\hfil } Hogares sin acceso a agua}{13}{section*.14}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {1.14\hfil } Hogares sin acceso a servicios de saneamiento}{14}{section*.15}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {1.15\hfil } Pobreza extrema rural}{15}{section*.16}
+>>>>>>> origin/master
 \thispagestyle {empty}
 \contentsline {section}{\hbox to\@tempdima {1.16\hfil } Pobreza total rural}{16}{section*.17}
 \thispagestyle {empty}
 \contentsline {section}{\hbox to\@tempdima {1.17\hfil } Pobreza extrema }{17}{section*.18}
 \thispagestyle {empty}
+<<<<<<< HEAD
 \contentsline {section}{\hbox to\@tempdima {1.18\hfil } Pobreza extrema rural}{18}{section*.19}
+=======
+\contentsline {section}{\hbox to\@tempdima {1.18\hfil } Pobreza total }{18}{section*.19}
+>>>>>>> origin/master
 \thispagestyle {empty}
 \contentsline {section}{\hbox to\@tempdima {1.19\hfil } PET }{19}{section*.20}
 \thispagestyle {empty}
@@ -60,7 +84,11 @@
 \thispagestyle {empty}
 \contentsline {section}{\hbox to\@tempdima {2.3\hfil } Frijol }{26}{section*.28}
 \thispagestyle {empty}
+<<<<<<< HEAD
 \contentsline {section}{\hbox to\@tempdima {2.4\hfil } Rendimiento frijol }{26}{section*.29}
+=======
+\contentsline {section}{\hbox to\@tempdima {2.4\hfil } Frijol }{26}{section*.29}
+>>>>>>> origin/master
 \thispagestyle {empty}
 \contentsline {section}{\hbox to\@tempdima {2.5\hfil } Arroz }{27}{section*.30}
 \thispagestyle {empty}
@@ -86,6 +114,7 @@
 \thispagestyle {empty}
 \contentsline {section}{\hbox to\@tempdima {2.16\hfil } Balanza comercial del ajonjolí }{32}{section*.41}
 \thispagestyle {empty}
+<<<<<<< HEAD
 \contentsline {section}{\hbox to\@tempdima {2.17\hfil } Disponibilidad de cereales }{33}{section*.42}
 \thispagestyle {empty}
 \contentsline {section}{\hbox to\@tempdima {2.18\hfil } Disponibilidad leguminosas, azúcares y/o tubérculos }{33}{section*.43}
@@ -101,6 +130,23 @@
 \contentsline {section}{\hbox to\@tempdima {2.23\hfil } Disponibilidad de productos lácteos}{36}{section*.48}
 \thispagestyle {empty}
 \contentsline {section}{\hbox to\@tempdima {2.24\hfil } Disponibilidad de aceites y grasas}{36}{section*.49}
+=======
+\contentsline {section}{\hbox to\@tempdima {2.17\hfil } Disponibilidad per cápita de cereales }{33}{section*.42}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {2.18\hfil } Disponibilidad per cápita de Leguminosas, azúcares yo tubérculos }{33}{section*.43}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {2.19\hfil } Disponibilidad per cápita de Hortalizas}{34}{section*.44}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {2.20\hfil } Disponibilidad per cápita de Frutas}{34}{section*.45}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {2.21\hfil } Disponibilidad per cápita de carnes}{35}{section*.46}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {2.22\hfil } Disponibilidad per cápita de huevo, pescado y mariscos}{35}{section*.47}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {2.23\hfil } Disponibilidad per cápita de productos lácteos}{36}{section*.48}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {2.24\hfil } Disponibilidad per cápita de aceites y grasas}{36}{section*.49}
+>>>>>>> origin/master
 \thispagestyle {empty}
 \contentsline {section}{\hbox to\@tempdima {2.25\hfil } Disponibilidad per cápita de alimentos gratificantes}{37}{section*.50}
 \thispagestyle {empty}
@@ -188,5 +234,48 @@
 \thispagestyle {empty}
 \contentsline {section}{\hbox to\@tempdima {5.17\hfil } Casos de IRA por departamento}{66}{section*.89}
 \thispagestyle {empty}
+<<<<<<< HEAD
 \addvspace {0.6\baselineskip }
 \contentsline {chapter}{APÉNDICES}{67}{section*.89}
+=======
+\addvspace {0.6\baselineskip }\color {color1}
+\contentsline {chapter}{\hbox to\@tempdima {6\hfil }Situación y atención a la desnutrición }{67}{section*.90}
+\addvspace {0.2\baselineskip }{\color {color2}\hrule height 0.9pt} \vskip 0.6\baselineskip \relax \color {black}
+\color {black}\vskip 0.2\baselineskip \relax 
+\contentsline {section}{\hbox to\@tempdima {6.1\hfil } Mujeres con anemia }{69}{section*.91}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {6.2\hfil } IMC }{69}{section*.92}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {6.3\hfil } IMC según área de residencia }{70}{section*.93}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {6.4\hfil } Talla promedio según área de residencia }{70}{section*.94}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {6.5\hfil } Peso de niños recién nacidos }{71}{section*.95}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {6.6\hfil } Desnutrición global }{71}{section*.96}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {6.7\hfil } Desnutrición aguda }{72}{section*.97}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {6.8\hfil } Desnutrición crónica }{72}{section*.98}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {6.9\hfil } Niños con anemia }{73}{section*.99}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {6.10\hfil } Niños con anemia por departamento }{74}{section*.100}
+\thispagestyle {empty}
+\addvspace {0.6\baselineskip }\color {color1}
+\contentsline {chapter}{\hbox to\@tempdima {7\hfil }Inversión pública en SAN }{75}{section*.101}
+\addvspace {0.2\baselineskip }{\color {color2}\hrule height 0.9pt} \vskip 0.6\baselineskip \relax \color {black}
+\color {black}\vskip 0.2\baselineskip \relax 
+\contentsline {section}{\hbox to\@tempdima {7.1\hfil } Asignación presupuestaria a la SESAN }{77}{section*.102}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {7.2\hfil } Ejecución presupuestaria de la SESAN }{77}{section*.103}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {7.3\hfil } Detalle de gasto de la SESAN }{78}{section*.104}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {7.4\hfil } Asignación presupuestaria a la ventana de los mil días}{78}{section*.105}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {7.5\hfil } Gasto programa ventana de los mil días}{79}{section*.106}
+\thispagestyle {empty}
+\addvspace {0.6\baselineskip }
+\contentsline {chapter}{APÉNDICES}{81}{section*.106}
+>>>>>>> origin/master
