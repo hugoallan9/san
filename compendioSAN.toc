@@ -1,0 +1,192 @@
+\select@language {spanish}
+\thispagestyle {empty}
+\addvspace {0.6\baselineskip }\color {color1}
+\contentsline {chapter}{\hbox to\@tempdima {1\hfil }Población}{1}{section*.1}
+\addvspace {0.2\baselineskip }{\color {color2}\hrule height 0.9pt} \vskip 0.6\baselineskip \relax \color {black}
+\color {black}\vskip 0.2\baselineskip \relax 
+\contentsline {section}{\hbox to\@tempdima {1.1\hfil } Evolución de la población }{3}{section*.2}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {1.2\hfil } Densidad de población }{3}{section*.3}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {1.3\hfil } Población por grupos de edad, año 2008 }{4}{section*.4}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {1.4\hfil } Población por grupos de edad, año 2015 }{4}{section*.5}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {1.5\hfil } Población departamental del 2008 }{5}{section*.6}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {1.6\hfil } Población departamental del 2015 }{6}{section*.7}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {1.7\hfil } Densidad poblacional departamental del 2008 }{7}{section*.8}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {1.8\hfil } Densidad poblacional departamental del 2015 }{8}{section*.9}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {1.9\hfil } Índice de desarrollo humano }{9}{section*.10}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {1.10\hfil } IDH en los departamentos}{10}{section*.11}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {1.11\hfil } Calidad de la vivienda en los departamentos}{11}{section*.12}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {1.12\hfil } Hogares que viven en hacinamiento}{12}{section*.13}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {1.13\hfil } Acceso a agua}{13}{section*.14}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {1.14\hfil } Acceso a servicios de saneamiento}{14}{section*.15}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {1.15\hfil } Pobreza total }{15}{section*.16}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {1.16\hfil } Pobreza total rural}{16}{section*.17}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {1.17\hfil } Pobreza extrema }{17}{section*.18}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {1.18\hfil } Pobreza extrema rural}{18}{section*.19}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {1.19\hfil } PET }{19}{section*.20}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {1.20\hfil } PEA }{19}{section*.21}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {1.21\hfil } Población ocupada }{20}{section*.22}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {1.22\hfil } Tasa de participación según área de residencia }{20}{section*.23}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {1.23\hfil } Tasa de participación según sexo}{21}{section*.24}
+\thispagestyle {empty}
+\addvspace {0.6\baselineskip }\color {color1}
+\contentsline {chapter}{\hbox to\@tempdima {2\hfil }Disponibilidad de alimentos}{23}{section*.25}
+\addvspace {0.2\baselineskip }{\color {color2}\hrule height 0.9pt} \vskip 0.6\baselineskip \relax \color {black}
+\color {black}\vskip 0.2\baselineskip \relax 
+\contentsline {section}{\hbox to\@tempdima {2.1\hfil } Maíz }{25}{section*.26}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {2.2\hfil } Rendimiento del maíz }{25}{section*.27}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {2.3\hfil } Frijol }{26}{section*.28}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {2.4\hfil } Rendimiento frijol }{26}{section*.29}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {2.5\hfil } Arroz }{27}{section*.30}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {2.6\hfil } Rendimiento del arroz }{27}{section*.31}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {2.7\hfil } Trigo }{28}{section*.32}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {2.8\hfil } Rendimiento del trigo}{28}{section*.33}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {2.9\hfil } Ajonjolí }{29}{section*.34}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {2.10\hfil } Rendimiento del ajonjolí }{29}{section*.35}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {2.11\hfil } Balanza comercial de maíz blanco }{30}{section*.36}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {2.12\hfil } Balanza comercial de maíz amarillo }{30}{section*.37}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {2.13\hfil } Balanza comercial del frijol }{31}{section*.38}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {2.14\hfil } Balanza comercial del arroz }{31}{section*.39}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {2.15\hfil } Balanza comercial del trigo }{32}{section*.40}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {2.16\hfil } Balanza comercial del ajonjolí }{32}{section*.41}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {2.17\hfil } Disponibilidad de cereales }{33}{section*.42}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {2.18\hfil } Disponibilidad leguminosas, azúcares y/o tubérculos }{33}{section*.43}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {2.19\hfil } Disponibilidad de hortalizas}{34}{section*.44}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {2.20\hfil } Disponibilidad de frutas}{34}{section*.45}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {2.21\hfil } Disponibilidad per cápita de carnes}{35}{section*.46}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {2.22\hfil } Disponibilidad de huevos, pescado y mariscos}{35}{section*.47}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {2.23\hfil } Disponibilidad de productos lácteos}{36}{section*.48}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {2.24\hfil } Disponibilidad de aceites y grasas}{36}{section*.49}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {2.25\hfil } Disponibilidad per cápita de alimentos gratificantes}{37}{section*.50}
+\thispagestyle {empty}
+\addvspace {0.6\baselineskip }\color {color1}
+\contentsline {chapter}{\hbox to\@tempdima {3\hfil }Acceso a los alimentos}{39}{section*.51}
+\addvspace {0.2\baselineskip }{\color {color2}\hrule height 0.9pt} \vskip 0.6\baselineskip \relax \color {black}
+\color {black}\vskip 0.2\baselineskip \relax 
+\contentsline {section}{\hbox to\@tempdima {3.1\hfil } Evolución del salario mínimo }{41}{section*.52}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {3.2\hfil } Ingreso laboral mensual }{41}{section*.53}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {3.3\hfil } Ingreso laboral mensual según dominio de estudio}{42}{section*.54}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {3.4\hfil } Ingreso laboral mensual según etnia}{42}{section*.55}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {3.5\hfil } Ingreso de afiliados al IGSS}{43}{section*.56}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {3.6\hfil } Ingreso de afiliados al IGSS según rama de actividad}{43}{section*.57}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {3.7\hfil } Ingreso de afiliados al IGSS por departamento }{44}{section*.58}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {3.8\hfil } Costo de la canasta básica}{45}{section*.59}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {3.9\hfil } Costo de la canasta básica ampliada}{45}{section*.60}
+\thispagestyle {empty}
+\addvspace {0.6\baselineskip }\color {color1}
+\contentsline {chapter}{\hbox to\@tempdima {4\hfil }Consumo de alimentos}{47}{section*.61}
+\addvspace {0.2\baselineskip }{\color {color2}\hrule height 0.9pt} \vskip 0.6\baselineskip \relax \color {black}
+\color {black}\vskip 0.2\baselineskip \relax 
+\contentsline {section}{\hbox to\@tempdima {4.1\hfil } Lactancia en niños menores de 5 años }{49}{section*.62}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {4.2\hfil } Duración de la lactancia según área de residencia}{49}{section*.63}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {4.3\hfil } Duración de la lactancia según etnia}{50}{section*.64}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {4.4\hfil } Duración de la lactancia por educación}{50}{section*.65}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {4.5\hfil } Niños de 0 a 3 meses según lactancia}{51}{section*.66}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {4.6\hfil } Niños de 0 a 3 meses según lactancia por etnia}{51}{section*.67}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {4.7\hfil } Niños de 0 a 3 meses según lactancia y educación de la madre}{52}{section*.68}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {4.8\hfil } Niños de 0 a 5 meses según lactancia}{52}{section*.69}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {4.9\hfil } Niños de 0 a 5 meses según lactancia por etnia}{53}{section*.70}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {4.10\hfil } Niños de 0 a 5 meses según lactancia y educación de la madre}{53}{section*.71}
+\thispagestyle {empty}
+\addvspace {0.6\baselineskip }\color {color1}
+\contentsline {chapter}{\hbox to\@tempdima {5\hfil }Utilización biológica de los alimentos}{55}{section*.72}
+\addvspace {0.2\baselineskip }{\color {color2}\hrule height 0.9pt} \vskip 0.6\baselineskip \relax \color {black}
+\color {black}\vskip 0.2\baselineskip \relax 
+\contentsline {section}{\hbox to\@tempdima {5.1\hfil } Hogares formales }{57}{section*.73}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {5.2\hfil } Viviendas con pared de block }{57}{section*.74}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {5.3\hfil } Viviendas con techo de lámina }{58}{section*.75}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {5.4\hfil } Viviendas con material del piso}{58}{section*.76}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {5.5\hfil } Viviendas y acceso al agua}{59}{section*.77}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {5.6\hfil } Viviendas y acceso a drenajes}{59}{section*.78}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {5.7\hfil } TGF}{60}{section*.79}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {5.8\hfil } TGF por área de residencia}{60}{section*.80}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {5.9\hfil } Asistencia prenatal}{61}{section*.81}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {5.10\hfil } Asistencia en el parto}{61}{section*.82}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {5.11\hfil } Niños que reciben alguna vacuna o desparasitante}{62}{section*.83}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {5.12\hfil } Diarrea}{62}{section*.84}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {5.13\hfil } Diarrea según sexo}{63}{section*.85}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {5.14\hfil } Casos de diarrea por departamento}{64}{section*.86}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {5.15\hfil } Infecciones respiratorias agudas}{65}{section*.87}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {5.16\hfil } Infecciones respiratorias agudas según sexo}{65}{section*.88}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {5.17\hfil } Casos de IRA por departamento}{66}{section*.89}
+\thispagestyle {empty}
+\addvspace {0.6\baselineskip }
+\contentsline {chapter}{APÉNDICES}{67}{section*.89}
