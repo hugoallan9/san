@@ -188,5 +188,43 @@
 \thispagestyle {empty}
 \contentsline {section}{\hbox to\@tempdima {5.17\hfil } Casos de IRA por departamento}{66}{section*.89}
 \thispagestyle {empty}
+\addvspace {0.6\baselineskip }\color {color1}
+\contentsline {chapter}{\hbox to\@tempdima {6\hfil }Situación y atención a la desnutrición }{67}{section*.90}
+\addvspace {0.2\baselineskip }{\color {color2}\hrule height 0.9pt} \vskip 0.6\baselineskip \relax \color {black}
+\color {black}\vskip 0.2\baselineskip \relax 
+\contentsline {section}{\hbox to\@tempdima {6.1\hfil } Mujeres con anemia }{69}{section*.91}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {6.2\hfil } IMC }{69}{section*.92}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {6.3\hfil } IMC según área de residencia }{70}{section*.93}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {6.4\hfil } Talla promedio según área de residencia }{70}{section*.94}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {6.5\hfil } Peso de niños recién nacidos }{71}{section*.95}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {6.6\hfil } Desnutrición global }{71}{section*.96}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {6.7\hfil } Desnutrición aguda }{72}{section*.97}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {6.8\hfil } Desnutrición crónica }{72}{section*.98}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {6.9\hfil } Niños con anemia }{73}{section*.99}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {6.10\hfil } Niños con anemia por departamento }{74}{section*.100}
+\thispagestyle {empty}
+\addvspace {0.6\baselineskip }\color {color1}
+\contentsline {chapter}{\hbox to\@tempdima {7\hfil }Inversión pública en SAN }{75}{section*.101}
+\addvspace {0.2\baselineskip }{\color {color2}\hrule height 0.9pt} \vskip 0.6\baselineskip \relax \color {black}
+\color {black}\vskip 0.2\baselineskip \relax 
+\contentsline {section}{\hbox to\@tempdima {7.1\hfil } Asignación presupuestaria a la SESAN }{77}{section*.102}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {7.2\hfil } Ejecución presupuestaria de la SESAN }{77}{section*.103}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {7.3\hfil } Detalle de gasto de la SESAN }{78}{section*.104}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {7.4\hfil } Asignación presupuestaria a la ventana de los mil días}{78}{section*.105}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {7.5\hfil } Gasto programa ventana de los mil días}{79}{section*.106}
+\thispagestyle {empty}
 \addvspace {0.6\baselineskip }
-\contentsline {chapter}{APÉNDICES}{67}{section*.89}
+\contentsline {chapter}{APÉNDICES}{81}{section*.106}
