@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Arch Linux) (preloaded format=xelatex 2015.11.19)  10 MAR 2016 21:22
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Arch Linux) (preloaded format=xelatex 2015.11.19)  11 MAR 2016 06:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -5427,57 +5427,62 @@ Package hyperref Info: Anchor `page.68' on input line 25.
 
 
 ] (./capitulo6.tex
-Package hyperref Info: Anchor `section*.91' on input line 14.
-Package hyperref Info: bookmark on input line 14:
+Package hyperref Info: Anchor `section*.91' on input line 17.
+Package hyperref Info: bookmark on input line 17:
 (hyperref)             thecounter {6.1}
 (hyperref)             text {\numberline {\thesection } Mujeres con anemia }
 (hyperref)             reference {section*.91}
 (hyperref)             toclevel {1}
 (hyperref)             type {toc}.
 
-Overfull \hbox (1.90617pt too wide) in paragraph at lines 14--14
+Overfull \hbox (1.90617pt too wide) in paragraph at lines 17--17
 [][] 
  []
 
 (./graficas/6_01.tex)
-Overfull \hbox (4.51688pt too wide) in paragraph at lines 14--14
+Package hyperref Info: Reference (link) `Hfootnote.21' on input line 17.
+Package hyperref Info: Anchor `Hfootnote.21' on input line 17.
+
+Overfull \hbox (4.51688pt too wide) in paragraph at lines 17--17
  []|[]| 
  []
 
 
-Overfull \hbox (1.37164pt too wide) in paragraph at lines 14--14
+Overfull \hbox (1.37164pt too wide) in paragraph at lines 17--17
 []  
  []
 
-Package hyperref Info: Anchor `section*.92' on input line 29.
-Package hyperref Info: bookmark on input line 29:
+Package hyperref Info: Anchor `section*.92' on input line 36.
+Package hyperref Info: bookmark on input line 36:
 (hyperref)             thecounter {6.2}
 (hyperref)             text {\numberline {\thesection } IMC }
 (hyperref)             reference {section*.92}
 (hyperref)             toclevel {1}
 (hyperref)             type {toc}.
 
-Overfull \hbox (1.90617pt too wide) in paragraph at lines 29--29
+Overfull \hbox (1.90617pt too wide) in paragraph at lines 36--36
 [][] 
  []
 
+Package hyperref Info: Reference (link) `Hfootnote.22' on input line 36.
+Package hyperref Info: Anchor `Hfootnote.22' on input line 36.
 
-Overfull \hbox (4.51688pt too wide) in paragraph at lines 29--29
+Overfull \hbox (4.51688pt too wide) in paragraph at lines 36--36
 []|[]| 
  []
 
 (./graficas/6_02.tex)
-Overfull \hbox (11.72424pt too wide) in paragraph at lines 29--29
+Overfull \hbox (11.72424pt too wide) in paragraph at lines 36--36
 [][] 
  []
 
 
-Overfull \hbox (1.37164pt too wide) in paragraph at lines 29--29
+Overfull \hbox (1.37164pt too wide) in paragraph at lines 36--36
 []  
  []
 
-Package hyperref Info: Anchor `section*.93' on input line 45.
-Package hyperref Info: bookmark on input line 45:
+Package hyperref Info: Anchor `section*.93' on input line 57.
+Package hyperref Info: bookmark on input line 57:
 (hyperref)             thecounter {6.3}
 (hyperref)             text {\numberline {\thesection } IMC según área de resid
 encia }
@@ -5485,17 +5490,17 @@ encia }
 (hyperref)             toclevel {1}
 (hyperref)             type {toc}.
 
-Overfull \hbox (1.90617pt too wide) in paragraph at lines 45--45
+Overfull \hbox (1.90617pt too wide) in paragraph at lines 57--57
 [][] 
  []
 
 (./graficas/6_03.tex)
-Overfull \hbox (4.51688pt too wide) in paragraph at lines 45--45
+Overfull \hbox (4.51688pt too wide) in paragraph at lines 57--57
  []|[]| 
  []
 
 
-Overfull \hbox (1.37164pt too wide) in paragraph at lines 45--45
+Overfull \hbox (1.37164pt too wide) in paragraph at lines 57--57
 []  
  []
 
@@ -5515,10 +5520,10 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-Package hyperref Info: Anchor `page.69' on input line 61.
+Package hyperref Info: Anchor `page.69' on input line 74.
 [69]
-Package hyperref Info: Anchor `section*.94' on input line 61.
-Package hyperref Info: bookmark on input line 61:
+Package hyperref Info: Anchor `section*.94' on input line 74.
+Package hyperref Info: bookmark on input line 74:
 (hyperref)             thecounter {6.4}
 (hyperref)             text {\numberline {\thesection } Talla promedio según ár
 ea de residencia }
@@ -5526,27 +5531,29 @@ ea de residencia }
 (hyperref)             toclevel {1}
 (hyperref)             type {toc}.
 
-Overfull \hbox (1.90617pt too wide) in paragraph at lines 61--61
+Overfull \hbox (1.90617pt too wide) in paragraph at lines 74--74
 [][] 
  []
 
+Package hyperref Info: Reference (link) `Hfootnote.23' on input line 74.
+Package hyperref Info: Anchor `Hfootnote.23' on input line 74.
 
-Overfull \hbox (4.51688pt too wide) in paragraph at lines 61--61
+Overfull \hbox (4.51688pt too wide) in paragraph at lines 74--74
 []|[]| 
  []
 
 (./graficas/6_04.tex)
-Overfull \hbox (11.72424pt too wide) in paragraph at lines 61--61
+Overfull \hbox (11.72424pt too wide) in paragraph at lines 74--74
 [][] 
  []
 
 
-Overfull \hbox (1.37164pt too wide) in paragraph at lines 61--61
+Overfull \hbox (1.37164pt too wide) in paragraph at lines 74--74
 []  
  []
 
-Package hyperref Info: Anchor `section*.95' on input line 76.
-Package hyperref Info: bookmark on input line 76:
+Package hyperref Info: Anchor `section*.95' on input line 92.
+Package hyperref Info: bookmark on input line 92:
 (hyperref)             thecounter {6.5}
 (hyperref)             text {\numberline {\thesection } Peso de niños recién na
 cidos }
@@ -5554,17 +5561,17 @@ cidos }
 (hyperref)             toclevel {1}
 (hyperref)             type {toc}.
 
-Overfull \hbox (1.90617pt too wide) in paragraph at lines 76--76
+Overfull \hbox (1.90617pt too wide) in paragraph at lines 92--92
 [][] 
  []
 
 (./graficas/6_041.tex)
-Overfull \hbox (4.51688pt too wide) in paragraph at lines 76--76
+Overfull \hbox (4.51688pt too wide) in paragraph at lines 92--92
  []|[]| 
  []
 
 
-Overfull \hbox (1.37164pt too wide) in paragraph at lines 76--76
+Overfull \hbox (1.37164pt too wide) in paragraph at lines 92--92
 []  
  []
 
@@ -5584,54 +5591,58 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-Package hyperref Info: Anchor `page.70' on input line 91.
+Package hyperref Info: Anchor `page.70' on input line 112.
 [70]
-Package hyperref Info: Anchor `section*.96' on input line 91.
-Package hyperref Info: bookmark on input line 91:
+Package hyperref Info: Anchor `section*.96' on input line 112.
+Package hyperref Info: bookmark on input line 112:
 (hyperref)             thecounter {6.6}
 (hyperref)             text {\numberline {\thesection } Desnutrición global }
 (hyperref)             reference {section*.96}
 (hyperref)             toclevel {1}
 (hyperref)             type {toc}.
 
-Overfull \hbox (1.90617pt too wide) in paragraph at lines 91--91
+Overfull \hbox (1.90617pt too wide) in paragraph at lines 112--112
 [][] 
  []
 
+Package hyperref Info: Reference (link) `Hfootnote.24' on input line 112.
+Package hyperref Info: Anchor `Hfootnote.24' on input line 112.
+Package hyperref Info: Reference (link) `Hfootnote.25' on input line 112.
+Package hyperref Info: Anchor `Hfootnote.25' on input line 112.
 
-Overfull \hbox (4.51688pt too wide) in paragraph at lines 91--91
+Overfull \hbox (4.51688pt too wide) in paragraph at lines 112--112
 []|[]| 
  []
 
 (./graficas/6_05.tex)
-Overfull \hbox (11.72424pt too wide) in paragraph at lines 91--91
+Overfull \hbox (11.72424pt too wide) in paragraph at lines 112--112
 [][] 
  []
 
 
-Overfull \hbox (1.37164pt too wide) in paragraph at lines 91--91
+Overfull \hbox (1.37164pt too wide) in paragraph at lines 112--112
 []  
  []
 
-Package hyperref Info: Anchor `section*.97' on input line 106.
-Package hyperref Info: bookmark on input line 106:
+Package hyperref Info: Anchor `section*.97' on input line 130.
+Package hyperref Info: bookmark on input line 130:
 (hyperref)             thecounter {6.7}
 (hyperref)             text {\numberline {\thesection } Desnutrición aguda }
 (hyperref)             reference {section*.97}
 (hyperref)             toclevel {1}
 (hyperref)             type {toc}.
 
-Overfull \hbox (1.90617pt too wide) in paragraph at lines 106--106
+Overfull \hbox (1.90617pt too wide) in paragraph at lines 130--130
 [][] 
  []
 
 (./graficas/6_06.tex)
-Overfull \hbox (4.51688pt too wide) in paragraph at lines 106--106
+Overfull \hbox (4.51688pt too wide) in paragraph at lines 130--130
  []|[]| 
  []
 
 
-Overfull \hbox (1.37164pt too wide) in paragraph at lines 106--106
+Overfull \hbox (1.37164pt too wide) in paragraph at lines 130--130
 []  
  []
 
@@ -5651,54 +5662,54 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-Package hyperref Info: Anchor `page.71' on input line 122.
+Package hyperref Info: Anchor `page.71' on input line 149.
 [71]
-Package hyperref Info: Anchor `section*.98' on input line 122.
-Package hyperref Info: bookmark on input line 122:
+Package hyperref Info: Anchor `section*.98' on input line 149.
+Package hyperref Info: bookmark on input line 149:
 (hyperref)             thecounter {6.8}
 (hyperref)             text {\numberline {\thesection } Desnutrición crónica }
 (hyperref)             reference {section*.98}
 (hyperref)             toclevel {1}
 (hyperref)             type {toc}.
 
-Overfull \hbox (1.90617pt too wide) in paragraph at lines 122--122
+Overfull \hbox (1.90617pt too wide) in paragraph at lines 149--149
 [][] 
  []
 
 
-Overfull \hbox (4.51688pt too wide) in paragraph at lines 122--122
+Overfull \hbox (4.51688pt too wide) in paragraph at lines 149--149
 []|[]| 
  []
 
 (./graficas/6_07.tex)
-Overfull \hbox (11.72424pt too wide) in paragraph at lines 122--122
+Overfull \hbox (11.72424pt too wide) in paragraph at lines 149--149
 [][] 
  []
 
 
-Overfull \hbox (1.37164pt too wide) in paragraph at lines 122--122
+Overfull \hbox (1.37164pt too wide) in paragraph at lines 149--149
 []  
  []
 
-Package hyperref Info: Anchor `section*.99' on input line 138.
-Package hyperref Info: bookmark on input line 138:
+Package hyperref Info: Anchor `section*.99' on input line 171.
+Package hyperref Info: bookmark on input line 171:
 (hyperref)             thecounter {6.9}
 (hyperref)             text {\numberline {\thesection } Niños con anemia }
 (hyperref)             reference {section*.99}
 (hyperref)             toclevel {1}
 (hyperref)             type {toc}.
 
-Overfull \hbox (1.90617pt too wide) in paragraph at lines 138--138
+Overfull \hbox (1.90617pt too wide) in paragraph at lines 171--171
 [][] 
  []
 
 (./graficas/6_08.tex)
-Overfull \hbox (4.51688pt too wide) in paragraph at lines 138--138
+Overfull \hbox (4.51688pt too wide) in paragraph at lines 171--171
  []|[]| 
  []
 
 
-Overfull \hbox (1.37164pt too wide) in paragraph at lines 138--138
+Overfull \hbox (1.37164pt too wide) in paragraph at lines 171--171
 []  
  []
 
@@ -5718,10 +5729,10 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-Package hyperref Info: Anchor `page.72' on input line 153.
+Package hyperref Info: Anchor `page.72' on input line 191.
 [72]
-Package hyperref Info: Anchor `section*.100' on input line 153.
-Package hyperref Info: bookmark on input line 153:
+Package hyperref Info: Anchor `section*.100' on input line 191.
+Package hyperref Info: bookmark on input line 191:
 (hyperref)             thecounter {6.10}
 (hyperref)             text {\numberline {\thesection } Niños con anemia por de
 partamento }
@@ -5729,28 +5740,28 @@ partamento }
 (hyperref)             toclevel {1}
 (hyperref)             type {toc}.
 
-Overfull \hbox (1.90617pt too wide) in paragraph at lines 153--153
+Overfull \hbox (1.90617pt too wide) in paragraph at lines 191--191
 [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 153--153
+Underfull \hbox (badness 10000) in paragraph at lines 191--191
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 153--153
+Underfull \hbox (badness 10000) in paragraph at lines 191--191
 
  []
 
 File: graficas/6_09.pdf Graphic file (type QTm)
 <use  "graficas/6_09.pdf" >
-Overfull \hbox (2.69052pt too wide) in paragraph at lines 153--153
+Overfull \hbox (2.69052pt too wide) in paragraph at lines 191--191
  [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 153--153
+Underfull \hbox (badness 10000) in paragraph at lines 191--191
 
  []
 
@@ -5834,8 +5845,8 @@ Overfull \hbox (1.90617pt too wide) in paragraph at lines 15--15
  []
 
 (./graficas/7_01.tex)
-Package hyperref Info: Reference (link) `Hfootnote.21' on input line 15.
-Package hyperref Info: Anchor `Hfootnote.21' on input line 15.
+Package hyperref Info: Reference (link) `Hfootnote.26' on input line 15.
+Package hyperref Info: Anchor `Hfootnote.26' on input line 15.
 
 Overfull \hbox (4.51688pt too wide) in paragraph at lines 15--15
  []|[]| 
@@ -5888,10 +5899,10 @@ Overfull \hbox (1.90617pt too wide) in paragraph at lines 61--61
  []
 
 (./graficas/7_03.tex)
-Package hyperref Info: Reference (link) `Hfootnote.22' on input line 61.
-Package hyperref Info: Anchor `Hfootnote.22' on input line 61.
-Package hyperref Info: Reference (link) `Hfootnote.23' on input line 61.
-Package hyperref Info: Anchor `Hfootnote.23' on input line 61.
+Package hyperref Info: Reference (link) `Hfootnote.27' on input line 61.
+Package hyperref Info: Anchor `Hfootnote.27' on input line 61.
+Package hyperref Info: Reference (link) `Hfootnote.28' on input line 61.
+Package hyperref Info: Anchor `Hfootnote.28' on input line 61.
 
 Overfull \hbox (4.51688pt too wide) in paragraph at lines 61--61
  []|[]| 
@@ -5933,8 +5944,8 @@ Overfull \hbox (1.90617pt too wide) in paragraph at lines 79--79
 [][] 
  []
 
-Package hyperref Info: Reference (link) `Hfootnote.24' on input line 79.
-Package hyperref Info: Anchor `Hfootnote.24' on input line 79.
+Package hyperref Info: Reference (link) `Hfootnote.29' on input line 79.
+Package hyperref Info: Anchor `Hfootnote.29' on input line 79.
 
 Overfull \hbox (4.51688pt too wide) in paragraph at lines 79--79
 []|[]| 
@@ -8931,7 +8942,7 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Here is how much of TeX's memory you used:
  41681 strings out of 493668
  839562 string characters out of 6150755
- 1099162 words of memory out of 5000000
+ 1099161 words of memory out of 5000000
  44036 multiletter control sequences out of 15000+600000
  27225 words of font info for 246 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
