@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Arch Linux) (preloaded format=xelatex 2015.11.19)  15 MAR 2016 05:16
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Arch Linux) (preloaded format=xelatex 2015.11.19)  15 MAR 2016 13:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1889,25 +1889,25 @@ Package hyperref Info: Anchor `page.0' on input line 127.
  [0
 
 ]
-Package hyperref Info: Anchor `page.0' on input line 174.
+Package hyperref Info: Anchor `page.0' on input line 175.
  [0
 
 
 
 ]
-Package hyperref Info: Anchor `page.0' on input line 209.
+Package hyperref Info: Anchor `page.0' on input line 210.
  [0
 
 
 
 ]
-Package hyperref Info: Anchor `page.0' on input line 236.
+Package hyperref Info: Anchor `page.0' on input line 237.
  [0
 
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 242--243
+Underfull \hbox (badness 10000) in paragraph at lines 243--244
 
  []
 
@@ -2039,41 +2039,41 @@ Package hyperref Info: Reference (link) `section*.113' on input line 250.
 \tf@toc=\write7
 \openout7 = `compendioSAN.toc'.
 
-Package hyperref Info: Anchor `page.4' on input line 246.
+Package hyperref Info: Anchor `page.4' on input line 247.
  [4]
 
 LaTeX Font Warning: Font shape `EU1/OpenSansCondensedBold(0)/bx/n' undefined
 (Font)              using `EU1/OpenSansCondensedBold(0)/m/n' instead on input l
-ine 260.
+ine 261.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 260--261
+Underfull \hbox (badness 10000) in paragraph at lines 261--262
 
  []
 
-Package hyperref Info: Anchor `page.1' on input line 280.
+Package hyperref Info: Anchor `page.1' on input line 281.
 [1
 
 
 
 
 ]
-Package hyperref Info: Anchor `page.2' on input line 280.
+Package hyperref Info: Anchor `page.2' on input line 281.
  [2
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 284--286
+Underfull \hbox (badness 10000) in paragraph at lines 285--287
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 284--286
+Underfull \hbox (badness 10000) in paragraph at lines 285--287
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 292--293
+Underfull \hbox (badness 10000) in paragraph at lines 293--294
 
  []
 
@@ -10904,7 +10904,7 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Here is how much of TeX's memory you used:
  41867 strings out of 493668
  844133 string characters out of 6150755
- 1100513 words of memory out of 5000000
+ 1100514 words of memory out of 5000000
  44148 multiletter control sequences out of 15000+600000
  32933 words of font info for 308 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
