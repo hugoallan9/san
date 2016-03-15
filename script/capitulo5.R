@@ -1,13 +1,10 @@
-g<- graficaCol(lista$"5_01")
-g <- etiquetasHorizontales(g)
+g<- graficaLinea(lista$"5_01", rotar = "h")
 exportarLatex("../graficas/5_01.tex", g)
 
-g<- graficaCol(lista$"5_02")
-g <- etiquetasHorizontales(g)
+g<- graficaLinea(lista$"5_02", rotar = "h")
 exportarLatex("../graficas/5_02.tex", g)
 
-g<- graficaCol(lista$"5_03")
-g <- etiquetasHorizontales(g)
+g<- graficaLinea(lista$"5_03", rotar = "h")
 exportarLatex("../graficas/5_03.tex", g)
 
 g<- graficaColCategorias(lista$'5_04',ruta = '../graficas/5_04.tex', preambulo = F)
