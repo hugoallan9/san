@@ -26,7 +26,7 @@
 \thispagestyle {empty}
 \contentsline {section}{\hbox to\@tempdima {1.11\hfil } Calidad de la vivienda en los departamentos}{11}{section*.12}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {1.12\hfil } Hogares que viven en hacinamiento}{12}{section*.13}
+\contentsline {section}{\hbox to\@tempdima {1.12\hfil } Hogares que viven en hacinamiento en los departamentos}{12}{section*.13}
 \thispagestyle {empty}
 \contentsline {section}{\hbox to\@tempdima {1.13\hfil } Acceso a agua}{13}{section*.14}
 \thispagestyle {empty}
@@ -46,7 +46,7 @@
 \thispagestyle {empty}
 \contentsline {section}{\hbox to\@tempdima {1.21\hfil } Población ocupada }{20}{section*.22}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {1.22\hfil } Tasa de participación según área de residencia }{20}{section*.23}
+\contentsline {section}{\hbox to\@tempdima {1.22\hfil } Participación por dominio}{20}{section*.23}
 \thispagestyle {empty}
 \contentsline {section}{\hbox to\@tempdima {1.23\hfil } Tasa de participación según sexo}{21}{section*.24}
 \thispagestyle {empty}
@@ -144,7 +144,7 @@
 \thispagestyle {empty}
 \contentsline {section}{\hbox to\@tempdima {4.7\hfil } Niños de 0 a 3 meses según lactancia y educación de la madre}{52}{section*.68}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {4.8\hfil } Niños de 0 a 5 meses según lactancia}{52}{section*.69}
+\contentsline {section}{\hbox to\@tempdima {4.8\hfil } Niños de 0 a 5 meses según lactancia y área}{52}{section*.69}
 \thispagestyle {empty}
 \contentsline {section}{\hbox to\@tempdima {4.9\hfil } Niños de 0 a 5 meses según lactancia por etnia}{53}{section*.70}
 \thispagestyle {empty}
@@ -154,13 +154,13 @@
 \contentsline {chapter}{\hbox to\@tempdima {5\hfil }Utilización biológica de los alimentos}{55}{section*.72}
 \addvspace {0.2\baselineskip }{\color {color2}\hrule height 0.9pt} \vskip 0.6\baselineskip \relax \color {black}
 \color {black}\vskip 0.2\baselineskip \relax 
-\contentsline {section}{\hbox to\@tempdima {5.1\hfil } Hogares formales }{57}{section*.73}
+\contentsline {section}{\hbox to\@tempdima {5.1\hfil } Viviendas formales }{57}{section*.73}
 \thispagestyle {empty}
 \contentsline {section}{\hbox to\@tempdima {5.2\hfil } Viviendas con pared de block }{57}{section*.74}
 \thispagestyle {empty}
 \contentsline {section}{\hbox to\@tempdima {5.3\hfil } Viviendas con techo de lámina }{58}{section*.75}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {5.4\hfil } Viviendas con material del piso}{58}{section*.76}
+\contentsline {section}{\hbox to\@tempdima {5.4\hfil } Viviendas y material del piso}{58}{section*.76}
 \thispagestyle {empty}
 \contentsline {section}{\hbox to\@tempdima {5.5\hfil } Viviendas y acceso al agua}{59}{section*.77}
 \thispagestyle {empty}
