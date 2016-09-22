@@ -9,12 +9,16 @@
 \usepackage{pdfpages}
 \usepackage{setspace} 
 \usepackage{xltxtra}
-\usepackage{enumitem}
+\usepackage{enumitem}	
 \usepackage{fixltx2e}
 
 %Agregado por Hugo
 \usepackage{color}
+%agregado por FAbioa
 
+	\usepackage{dcolumn}
+%	\ldots
+	\newcolumntype{d}[1]{D{.}{.}{#1} }			
 %Tikz
 \usepackage{tikz}
 \usetikzlibrary{calc}
@@ -92,6 +96,7 @@ BoldItalicFont = OpenSans-CondLightItalic.ttf ]{OpenSans-CondLight.ttf}
 \newfontfamily\Cinzel{Cinzel}
 
 
+
 %%%%%%%%%%% Diseño global del documento
 \usepackage[paperwidth=8.5in, paperheight=11in, left=1.25in, right=0.75in, top=0.950in, bottom=0.925in]{geometry}
 %	\setlength{\headsep}{0pt}
@@ -118,7 +123,7 @@ BoldItalicFont = OpenSans-CondLightItalic.ttf ]{OpenSans-CondLight.ttf}
 \renewcommand*\l@subsection{\@dottedtocline{2}{5.2em}{3.2em}}
 \makeatother
 
-\renewcommand{\thesection}{\thechapter.\arabic{section}}
+\renewcommand{\thesubsection}{\thechapter.\arabic{section}.\arabic{subsection}}
 
 \cftsetpnumwidth{2\cuadri}
 \cftsetrmarg{8\cuadri}
@@ -168,6 +173,16 @@ BoldItalicFont = OpenSans-CondLightItalic.ttf ]{OpenSans-CondLight.ttf}
 \newcounter{numtextollamada}
 \setcounter{numllamada}{0}
 \setcounter{numtextollamada}{0}
+
+%IARNA
+\newcommand{\listexamplename}{\Huge \textbf{Lista de Figuras}}
+\newlistof{example}{exp}{\listexamplename}
+\newcommand{\example}[1]{%
+\refstepcounter{example}
+\addcontentsline{exp}{example}
+{\protect\numberline{\thechapter.\theexample} \quad #1}\par}
+
+\addtocontents{exp}{\protect\thispagestyle{estandar}}
 
 
 \newcommand{\llamada}[1][\thenumllamada]{\stepcounter{numllamada}\begingroup\setcounter{mpfootnote}{#1}\renewcommand\thefootnote\thempfootnote$\hspace{0.2ex}$\footnotemark\endgroup\markerspace}
@@ -295,14 +310,14 @@ BoldItalicFont = OpenSans-CondLightItalic.ttf ]{OpenSans-CondLight.ttf}
 
 
 \newcommand{\cajitaalternante}[1]{%
-\ifthenelse{\equal{\theupdown}{0}}{\setcounter{numllamada}{0}\setcounter{numtextollamada}{0}\noindent\begin{cajita-arriba}\phantomsection\stepcounter{section} #1\end{cajita-arriba}\setcounter{updown}{1}}{\noindent\begin{cajita-abajo}\phantomsection\stepcounter{section} #1\end{cajita-abajo}\setcounter{updown}{0}}%
+\ifthenelse{\equal{\theupdown}{0}}{\setcounter{numllamada}{0}\setcounter{numtextollamada}{0}\noindent\begin{cajita-arriba}\phantomsection\stepcounter{subsection} #1\end{cajita-arriba}\setcounter{updown}{1}}{\noindent\begin{cajita-abajo}\phantomsection\stepcounter{subsection} #1\end{cajita-abajo}\setcounter{updown}{0}}%
 }
 
 
 \newcommand{\titulizador}[1]{
 \begin{tabular}{@{}p{3.5\cuadri}|p{3pt}@{}p{46.0\cuadri}}
 & &\\[-1\cuadri]
-\textbf{\color{color2}\Large \thesection}$\ $ & &\textbf{\Large #1}\\[-1\cuadri]
+\textbf{\color{color2}\Large \thesubsection}$\ $ & &\textbf{\Large #1}\\[-1\cuadri]
  & &\\[-0.8pt] \cline{2-3}
 \end{tabular}
 
@@ -324,8 +339,8 @@ BoldItalicFont = OpenSans-CondLightItalic.ttf ]{OpenSans-CondLight.ttf}
 \newcommand{\cajitaderecha}[7][]{%
 \ifthenelse{\isempty{#1}}{
 \cajitaalternante{
-\addcontentsline{toc}{section}{\numberline{\thesection} #2}
-\addtocontents{toc}{\protect\thispagestyle{empty}}
+\addcontentsline{toc}{subsection}{\numberline{\thesubsection} #2}
+\addtocontents{toc}{\protect\thispagestyle{estandar}}
 \titulizador{#2}
 
 \begin{tabular}[b]{@{}p{17.5\cuadri}@{}p{1.5\cuadri}@{} x{34\cuadri}@{}}
@@ -336,8 +351,9 @@ BoldItalicFont = OpenSans-CondLightItalic.ttf ]{OpenSans-CondLight.ttf}
 \end{descripcion-cajita}
   & &
 \begin{grafica-cajita}
+\example{#4}
 \begin{center}
-\ifthenelse{\isempty{#4}}{}{{\textbf{#4}}\\[-1pt]}%
+\ifthenelse{\isempty{#4}}{}{{\textbf{Figura \thesubsection \quad #4}}\\[-1pt]}%
 \ifthenelse{\isempty{#5}}{$\ $\\[-0.1\cuadri]}{
 	{\footnotesize\texttwelveudash$\,\,$#5$\,\,$\texttwelveudash}\\[0.6\cuadri]}
 #6
@@ -351,8 +367,8 @@ $\ $\\[-2\cuadri]
 }}
 {
 \cajitaalternante{
-\addcontentsline{toc}{section}{\numberline{\thesection} #1}
-\addtocontents{toc}{\protect\thispagestyle{empty}}
+\addcontentsline{toc}{subsection}{\numberline{\thesubsection} #1}
+\addtocontents{toc}{\protect\thispagestyle{estandar}}
 \titulizador{#2}
 
 \begin{tabular}[b]{@{}p{17.5\cuadri}@{}p{1.5\cuadri}@{} x{34\cuadri}@{}}
@@ -363,8 +379,9 @@ $\ $\\[-2\cuadri]
 \end{descripcion-cajita}
   & &
 \begin{grafica-cajita}
+\example{#4}
 \begin{center}
-\ifthenelse{\isempty{#4}}{}{{\textbf{#4}}\\[-1pt]}%
+\ifthenelse{\isempty{#4}}{}{{\textbf{Figura \thesubsection \quad #4}}\\[-1pt]}%
 \ifthenelse{\isempty{#5}}{$\ $\\[-0.1\cuadri]}{
 	{\footnotesize\texttwelveudash$\,\,$#5$\,\,$\texttwelveudash}\\[0.6\cuadri]}
 #6
@@ -382,15 +399,16 @@ $\ $\\[-2\cuadri]
 \newcommand{\cajitaizquierda}[7][]{%
 \ifthenelse{\isempty{#1}}{
 \cajitaalternante{
-\addcontentsline{toc}{section}{\numberline{\thesection} #2}
-\addtocontents{toc}{\protect\thispagestyle{empty}}
+\addcontentsline{toc}{subsection}{\numberline{\thesubsection} #2}
+\addtocontents{toc}{\protect\thispagestyle{estandar}}
 \titulizador{#2}
 
 \begin{tabular}[b]{@{}p{34\cuadri}@{}p{0\cuadri}@{} x{17.5\cuadri}@{}}
 & &\\[0.5\cuadri]
 \begin{grafica-cajita}
+\example{#4}
 \begin{center}
-\ifthenelse{\isempty{#4}}{}{{\textbf{#4}}\\[-1pt]}%
+\ifthenelse{\isempty{#4}}{}{{\textbf{Figura \thesubsection \quad #4}}\\[-1pt]}%
 \ifthenelse{\isempty{#5}}{$\ $\\[-0.1\cuadri]}{
 	{\footnotesize\texttwelveudash$\,\,$#5$\,\,$\texttwelveudash}\\[0.6\cuadri]}
 #6
@@ -409,15 +427,16 @@ $\ $\\[-2\cuadri]
 }}
 {
 \cajitaalternante{
-\addcontentsline{toc}{section}{\numberline{\thesection} #1}
-\addtocontents{toc}{\protect\thispagestyle{empty}}
+\addcontentsline{toc}{subsection}{\numberline{\thesubsection} #1}
+\addtocontents{toc}{\protect\thispagestyle{estandar}}
 \titulizador{#2}
 
 \begin{tabular}[b]{@{}p{34\cuadri}@{}p{0\cuadri}@{} x{17.5\cuadri}@{}}
 & &\\[0.5\cuadri]
 \begin{grafica-cajita}
 \begin{center}
-\ifthenelse{\isempty{#4}}{}{{\textbf{#4}}\\[-1pt]}%
+\example{#4}
+\ifthenelse{\isempty{#4}}{}{{\textbf{Figura \thesubsection \quad #4}}\\[-1pt]}%
 \ifthenelse{\isempty{#5}}{$\ $\\[-0.1\cuadri]}{
 	{\footnotesize\texttwelveudash$\,\,$#5$\,\,$\texttwelveudash}\\[0.6\cuadri]}
 #6
@@ -458,8 +477,8 @@ $\ $\\[-2\cuadri]
 \newcommand{\cajitaderechamanual}[8][]{%
 \ifthenelse{\isempty{#1}}{
 \cajitaalternante{
-\addcontentsline{toc}{section}{\numberline{\thesection} #2}
-\addtocontents{toc}{\protect\thispagestyle{empty}}
+\addcontentsline{toc}{subsection}{\numberline{\thesubsection} #2}
+\addtocontents{toc}{\protect\thispagestyle{estandar}}
 \titulizadormanual{#2}{#8}
 
 \begin{tabular}[b]{@{}p{17.5\cuadri}@{}p{1.5\cuadri}@{} x{34\cuadri}@{}}
@@ -471,7 +490,8 @@ $\ $\\[-2\cuadri]
   & &
 \begin{grafica-cajita}
 \begin{center}
-\ifthenelse{\isempty{#4}}{}{{\textbf{#4}}\\[-1pt]}%
+\example{#4}
+\ifthenelse{\isempty{#4}}{}{{\textbf{Figura \thesubsection \quad #4}}\\[-1pt]}%
 \ifthenelse{\isempty{#5}}{$\ $\\[-0.1\cuadri]}{
 	{\footnotesize\texttwelveudash$\,\,$#5$\,\,$\texttwelveudash}\\[0.6\cuadri]}
 #6
@@ -485,8 +505,8 @@ $\ $\\[-2\cuadri]
 }}
 {
 \cajitaalternante{
-\addcontentsline{toc}{section}{\numberline{\thesection} #1}
-\addtocontents{toc}{\protect\thispagestyle{empty}}
+\addcontentsline{toc}{subsection}{\numberline{\thesubsection} #1}
+\addtocontents{toc}{\protect\thispagestyle{estandar}}
 \titulizadormanual{#2}{#8}
 
 \begin{tabular}[b]{@{}p{17.5\cuadri}@{}p{1.5\cuadri}@{} x{34\cuadri}@{}}
@@ -498,7 +518,8 @@ $\ $\\[-2\cuadri]
   & &
 \begin{grafica-cajita}
 \begin{center}
-\ifthenelse{\isempty{#4}}{}{{\textbf{#4}}\\[-1pt]}%
+\example{#4}
+\ifthenelse{\isempty{#4}}{}{{\textbf{Figura \thesubsection \quad #4}}\\[-1pt]}%
 \ifthenelse{\isempty{#5}}{$\ $\\[-0.1\cuadri]}{
 	{\footnotesize\texttwelveudash$\,\,$#5$\,\,$\texttwelveudash}\\[0.6\cuadri]}
 #6
@@ -516,15 +537,16 @@ $\ $\\[-2\cuadri]
 \newcommand{\cajitaizquierdamanual}[8][]{%
 \ifthenelse{\isempty{#1}}{
 \cajitaalternante{
-\addcontentsline{toc}{section}{\numberline{\thesection} #2}
-\addtocontents{toc}{\protect\thispagestyle{empty}}
+\addcontentsline{toc}{subsection}{\numberline{\thesubsection} #2}
+\addtocontents{toc}{\protect\thispagestyle{estandar}}
 \titulizadormanual{#2}{#8}
 
 \begin{tabular}[b]{@{}p{34\cuadri}@{}p{0\cuadri}@{} x{17.5\cuadri}@{}}
 & &\\[0.5\cuadri]
 \begin{grafica-cajita}
 \begin{center}
-\ifthenelse{\isempty{#4}}{}{{\textbf{#4}}\\[-1pt]}%
+\example{#4}
+\ifthenelse{\isempty{#4}}{}{{\textbf{Figura \thesubsection \quad #4}}\\[-1pt]}%
 \ifthenelse{\isempty{#5}}{$\ $\\[-0.1\cuadri]}{
 	{\footnotesize\texttwelveudash$\,\,$#5$\,\,$\texttwelveudash}\\[0.6\cuadri]}
 #6
@@ -543,15 +565,16 @@ $\ $\\[-2\cuadri]
 }}
 {
 \cajitaalternante{
-\addcontentsline{toc}{section}{\numberline{\thesection} #1}
-\addtocontents{toc}{\protect\thispagestyle{empty}}
+\addcontentsline{toc}{subsection}{\numberline{\thesubsection} #1}
+\addtocontents{toc}{\protect\thispagestyle{estandar}}
 \titulizadormanual{#2}{#8}
 
 \begin{tabular}[b]{@{}p{34\cuadri}@{}p{0\cuadri}@{} x{17.5\cuadri}@{}}
 & &\\[0.5\cuadri]
 \begin{grafica-cajita}
 \begin{center}
-\ifthenelse{\isempty{#4}}{}{{\textbf{#4}}\\[-1pt]}%
+\example{#4}
+\ifthenelse{\isempty{#4}}{}{{\textbf{Figura \thesubsection \quad #4}}\\[-1pt]}%
 \ifthenelse{\isempty{#5}}{$\ $\\[-0.1\cuadri]}{
 	{\footnotesize\texttwelveudash$\,\,$#5$\,\,$\texttwelveudash}\\[0.6\cuadri]}
 #6
@@ -595,15 +618,16 @@ $\ $\\[-2\cuadri]
 \newcommand{\cajitaizquierdatabla}[7][]{%
 	\ifthenelse{\isempty{#1}}{
 		\cajitaalternante{
-			\addcontentsline{toc}{section}{\numberline{\thesection} #2}
-			\addtocontents{toc}{\protect\thispagestyle{empty}}
+			\addcontentsline{toc}{subsection}{\numberline{\thesubsection} #2}
+			\addtocontents{toc}{\protect\thispagestyle{estandar}}
 			\titulizador{#2}
 			
 			\begin{tabular}[b]{@{}p{34\cuadri}@{}p{0\cuadri}@{} x{17.5\cuadri}@{}}
 				& &\\[0.5\cuadri]
 				\begin{grafica-cajita}
 					\begin{center}
-						\ifthenelse{\isempty{#4}}{}{{\textbf{#4}}\\[-1pt]}%
+					\example{#4}
+						\ifthenelse{\isempty{#4}}{}{{\textbf{Figura \thesubsection \quad #4}}\\[-1pt]}%
 						\ifthenelse{\isempty{#5}}{$\ $\\[-0.1\cuadri]}{
 							{\footnotesize\texttwelveudash$\,\,$#5$\,\,$\texttwelveudash}\\[0.6\cuadri]}
 						\ifthenelse{\isempty{#7}}{\renewcommand{\lafuente}{Estadísticas INE}}{\renewcommand{\lafuente}{#7}}%
@@ -623,15 +647,16 @@ $\ $\\[-2\cuadri]
 		}}
 		{
 			\cajitaalternante{
-				\addcontentsline{toc}{section}{\numberline{\thesection} #1}
-				\addtocontents{toc}{\protect\thispagestyle{empty}}
+				\addcontentsline{toc}{subsection}{\numberline{\thesubsection} #1}
+				\addtocontents{toc}{\protect\thispagestyle{estandar}}
 				\titulizador{#2}
 				
 				\begin{tabular}[b]{@{}p{34\cuadri}@{}p{0\cuadri}@{} x{17.5\cuadri}@{}}
 					& &\\[0.5\cuadri]
 					\begin{grafica-cajita}
 						\begin{center}
-							\ifthenelse{\isempty{#4}}{}{{\textbf{#4}}\\[-1pt]}%
+						\example{#4}
+							\ifthenelse{\isempty{#4}}{}{{\textbf{Figura \thesubsection \quad #4}}\\[-1pt]}%
 							\ifthenelse{\isempty{#5}}{$\ $\\[-0.1\cuadri]}{
 								{\footnotesize\texttwelveudash$\,\,$#5$\,\,$\texttwelveudash}\\[0.6\cuadri]}
 							\ifthenelse{\isempty{#7}}{\renewcommand{\lafuente}{Estadísticas INE}}{\renewcommand{\lafuente}{#7}}%
@@ -655,8 +680,8 @@ $\ $\\[-2\cuadri]
 \newcommand{\cajitaderechatabla}[7][]{%
 	\ifthenelse{\isempty{#1}}{
 		\cajitaalternante{
-			\addcontentsline{toc}{section}{\numberline{\thesection} #2}
-			\addtocontents{toc}{\protect\thispagestyle{empty}}
+			\addcontentsline{toc}{subsection}{\numberline{\thesubsection} #2}
+			\addtocontents{toc}{\protect\thispagestyle{estandar}}
 			\titulizador{#2}
 			
 			\begin{tabular}[b]{@{}p{17.5\cuadri}@{}p{1.5\cuadri}@{} x{34\cuadri}@{}}
@@ -668,7 +693,8 @@ $\ $\\[-2\cuadri]
 				& &
 				\begin{grafica-cajita}
 					\begin{center}
-						\ifthenelse{\isempty{#4}}{}{{\textbf{#4}}\\[-1pt]}%
+					\example{#4}
+						\ifthenelse{\isempty{#4}}{}{{\textbf{Figura \thesubsection \quad #4}}\\[-1pt]}%
 						\ifthenelse{\isempty{#5}}{$\ $\\[-0.1\cuadri]}{
 							{\footnotesize\texttwelveudash$\,\,$#5$\,\,$\texttwelveudash}\\[0.6\cuadri]}
 						\ifthenelse{\isempty{#7}}{\renewcommand{\lafuente}{Estadísticas INE}}{\renewcommand{\lafuente}{#7}}%
@@ -683,8 +709,8 @@ $\ $\\[-2\cuadri]
 		}}
 		{
 			\cajitaalternante{
-				\addcontentsline{toc}{section}{\numberline{\thesection} #1}
-				\addtocontents{toc}{\protect\thispagestyle{empty}}
+				\addcontentsline{toc}{subsection}{\numberline{\thesubsection} #1}
+				\addtocontents{toc}{\protect\thispagestyle{estandar}}
 				\titulizador{#2}
 				
 				\begin{tabular}[b]{@{}p{17.5\cuadri}@{}p{1.5\cuadri}@{} x{34\cuadri}@{}}
@@ -696,7 +722,8 @@ $\ $\\[-2\cuadri]
 					& &
 					\begin{grafica-cajita}
 						\begin{center}
-							\ifthenelse{\isempty{#4}}{}{{\textbf{#4}}\\[-1pt]}%
+						\example{#4}
+							\ifthenelse{\isempty{#4}}{}{{\textbf{Figura \thesubsection \quad #4}}\\[-1pt]}%
 							\ifthenelse{\isempty{#5}}{$\ $\\[-0.1\cuadri]}{
 								{\footnotesize\texttwelveudash$\,\,$#5$\,\,$\texttwelveudash}\\[0.6\cuadri]}
 							\ifthenelse{\isempty{#7}}{\renewcommand{\lafuente}{Estadísticas INE}}{\renewcommand{\lafuente}{#7}}%
@@ -733,14 +760,14 @@ $\ $\\[-2\cuadri]
 
 \newcommand{\cajota}[7][]{%
 	\setcounter{numllamada}{0}\setcounter{numtextollamada}{0}
-\noindent\begin{cajota-unica}\phantomsection\stepcounter{section}
+\noindent\begin{cajota-unica}\phantomsection\stepcounter{subsection}
 \ifthenelse{\equal{\theupdown}{0}}{}{\setcounter{updown}{0}}
 \ifthenelse{\isempty{#1}}{%
-\addcontentsline{toc}{section}{\numberline{\thesection} #2}
-\addtocontents{toc}{\protect\thispagestyle{empty}}
+\addcontentsline{toc}{subsection}{\numberline{\thesubsection} #2}
+\addtocontents{toc}{\protect\thispagestyle{estandar}}
 \titulizador{#2}}{%
-\addcontentsline{toc}{section}{\numberline{\thesection} #1}
-\addtocontents{toc}{\protect\thispagestyle{empty}}
+\addcontentsline{toc}{subsection}{\numberline{\thesubsection} #1}
+\addtocontents{toc}{\protect\thispagestyle{estandar}}
 \titulizador{#2}
 }
 \parskip 6pt\parindent 2em%
@@ -749,7 +776,8 @@ $\ $\\
 #3$\ $\\[-1\cuadri]
 
 \begin{center}
-\ifthenelse{\isempty{#4}}{}{{\textbf{#4}}\\[-1pt]}%
+\example{#4}
+\ifthenelse{\isempty{#4}}{}{{\textbf{Figura \thesubsection \quad #4}}\\[-1pt]}%
 \ifthenelse{\isempty{#5}}{$\ $\\[0.2\cuadri]}{
 	{\footnotesize\texttwelveudash$\,\,$#5$\,\,$\texttwelveudash}\\[2.0\cuadri]}
 #6
@@ -773,14 +801,14 @@ $\ $\\[-3\cuadri]
 
 \newcommand{\cajotatabla}[7][]{%
 	\setcounter{numllamada}{0}\setcounter{numtextollamada}{0}
-	\noindent\begin{cajota-unica}\phantomsection\stepcounter{section}
+	\noindent\begin{cajota-unica}\phantomsection\stepcounter{subsection}
 		\ifthenelse{\equal{\theupdown}{0}}{}{\setcounter{updown}{0}}
 		\ifthenelse{\isempty{#1}}{%
-			\addcontentsline{toc}{section}{\numberline{\thesection} #2}
-			\addtocontents{toc}{\protect\thispagestyle{empty}}
+			\addcontentsline{toc}{subsection}{\numberline{\thesubsection} #2}
+			\addtocontents{toc}{\protect\thispagestyle{estandar}}
 			\titulizador{#2}}{%
-			\addcontentsline{toc}{section}{\numberline{\thesection} #1}
-			\addtocontents{toc}{\protect\thispagestyle{empty}}
+			\addcontentsline{toc}{subsection}{\numberline{\thesubsection} #1}
+			\addtocontents{toc}{\protect\thispagestyle{estandar}}
 			\titulizador{#2}
 		}
 		\parskip 6pt\parindent 2em%
@@ -789,7 +817,8 @@ $\ $\\[-3\cuadri]
 		#3$\ $\\[-1\cuadri]
 		
 		\begin{center}
-			\ifthenelse{\isempty{#4}}{}{{\textbf{#4}}\\[-1pt]}%
+		\example{#4}
+			\ifthenelse{\isempty{#4}}{}{{\textbf{Figura \thesubsection \quad #4}}\\[-1pt]}%
 			\ifthenelse{\isempty{#5}}{$\ $\\[0.2\cuadri]}{
 			{\footnotesize\texttwelveudash$\,\,$#5$\,\,$\texttwelveudash}\\[2.0\cuadri]}
 		\ifthenelse{\isempty{#7}}{\renewcommand{\lafuente}{Estadísticas INE}}{\renewcommand{\lafuente}{#7}}%
@@ -870,8 +899,8 @@ $\ $\\[22.65\cuadri]
 \capitulocondescripcion{#2}{#3}
 }
 
-\cleardoublepage
-\setcounter{section}{0}
+%%%\cleardoublepage
+\setcounter{subsection}{0}
 \setcounter{updown}{0}
 }
 
@@ -945,7 +974,7 @@ $\ $\\[7.00\cuadri]
 }
 
 \cleardoublepage
-\setcounter{section}{0}
+\setcounter{subsection}{0}
 \setcounter{updown}{0}
 }
 
@@ -1026,4 +1055,5 @@ $\ $\\[20.35cm]
 	\textbf{\titulodoc}
 \end{center}
 }
+
 
