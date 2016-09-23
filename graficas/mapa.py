@@ -9,6 +9,7 @@ from qgis.gui import *
 import subprocess
 import shutil
 import shlex
+import locale
 
 ## En el ine "C:/OSGeo4W64/apps/qgis"
 ## En la casa
@@ -114,6 +115,8 @@ else:
 
 print "##############ESCRITURA DE DATOS.TEX###########"
 ##HOLA
+locale.setlocale(locale.LC_ALL, 'en_US.utf8')
+
 file = open(rutaDatos,"w")
 if sonEnteros(features) == True:
     print "Son enteros"
@@ -129,11 +132,11 @@ for feat in features:
         print attrs[0].toString()
         if convertir == True:
             numero = int(attrs[1].toString())
-            nuevo = ("%.0f" % numero)
+            nuevo = locale.format('%.0f', numero, True)
         else:
             numero = float(attrs[1].toString())
-            nuevo = ("%.1f" % numero)
-        print "El dato es : " + str(numero)
+            nuevo = locale.format('%.2f', numero, True)
+        print "El dato es : " + str(nuevo)
         if attrs[0].toString() == "1":
                 file.write("\\def \\guatemala {" + nuevo  + "}\n")
         elif attrs[0].toString() == "2":
@@ -334,9 +337,3 @@ print "ACA TERMINA EL PROGRAMA"
 #app.exec_()
 ##Cerrando la aplicacion
 #QgsApplication.exitQgis()
-
-
-
-
-
-
