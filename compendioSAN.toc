@@ -14,39 +14,40 @@
 \contentsline {chapter}{\hbox to\@tempdima {1\hfil }Población}{13}{section*.1}
 \addvspace {0.2\baselineskip }{\color {color2}\hrule height 0.9pt} \vskip 0.6\baselineskip \relax \color {black}
 \color {black}\vskip 0.2\baselineskip \relax 
-\contentsline {subsection}{\hbox to\@tempdima {1.0.1\hfil } Evolución de la población }{15}{section*.3}
+\contentsline {section}{\hbox to\@tempdima {1.1\hfil } Sección}{15}{section*.2}
+\contentsline {subsection}{\hbox to\@tempdima {1.1.1\hfil } Evolución de la población }{15}{section*.3}
 \thispagestyle {estandar}
-\contentsline {subsection}{\hbox to\@tempdima {1.0.2\hfil } Índice de desarrollo humano }{16}{section*.4}
+\contentsline {subsection}{\hbox to\@tempdima {1.1.2\hfil } Índice de desarrollo humano }{15}{section*.4}
 \thispagestyle {estandar}
-\contentsline {subsection}{\hbox to\@tempdima {1.0.3\hfil } IDH en los departamentos}{17}{section*.5}
+\contentsline {subsection}{\hbox to\@tempdima {1.1.3\hfil } IDH en los departamentos}{16}{section*.5}
 \thispagestyle {estandar}
-\contentsline {subsection}{\hbox to\@tempdima {1.0.4\hfil } Densidad de población }{18}{section*.6}
+\contentsline {subsection}{\hbox to\@tempdima {1.1.4\hfil } Densidad de población }{17}{section*.6}
 \thispagestyle {estandar}
-\contentsline {subsection}{\hbox to\@tempdima {1.0.5\hfil } Población por grupos de edad, año 2008 }{18}{section*.7}
+\contentsline {subsection}{\hbox to\@tempdima {1.1.5\hfil } Población por grupos de edad, año 2008 }{17}{section*.7}
 \thispagestyle {estandar}
-\contentsline {subsection}{\hbox to\@tempdima {1.0.6\hfil } Población por grupos de edad, año 2015 }{19}{section*.8}
+\contentsline {subsection}{\hbox to\@tempdima {1.1.6\hfil } Población por grupos de edad, año 2015 }{18}{section*.8}
 \thispagestyle {estandar}
-\contentsline {subsection}{\hbox to\@tempdima {1.0.7\hfil } Población departamental del 2015 }{20}{section*.9}
+\contentsline {subsection}{\hbox to\@tempdima {1.1.7\hfil } Población departamental del 2015 }{19}{section*.9}
 \thispagestyle {estandar}
-\contentsline {subsection}{\hbox to\@tempdima {1.0.8\hfil } Densidad poblacional departamental del 2015 }{21}{section*.10}
+\contentsline {subsection}{\hbox to\@tempdima {1.1.8\hfil } Densidad poblacional departamental del 2015 }{20}{section*.10}
 \thispagestyle {estandar}
-\contentsline {subsection}{\hbox to\@tempdima {1.0.9\hfil } Pobreza total }{22}{section*.11}
+\contentsline {subsection}{\hbox to\@tempdima {1.1.9\hfil } Pobreza total }{21}{section*.11}
 \thispagestyle {estandar}
-\contentsline {subsection}{\hbox to\@tempdima {1.0.10\hfil } Pobreza total rural}{23}{section*.12}
+\contentsline {subsection}{\hbox to\@tempdima {1.1.10\hfil } Pobreza total rural}{22}{section*.12}
 \thispagestyle {estandar}
-\contentsline {subsection}{\hbox to\@tempdima {1.0.11\hfil } Pobreza extrema }{24}{section*.13}
+\contentsline {subsection}{\hbox to\@tempdima {1.1.11\hfil } Pobreza extrema }{23}{section*.13}
 \thispagestyle {estandar}
-\contentsline {subsection}{\hbox to\@tempdima {1.0.12\hfil } Pobreza extrema rural}{25}{section*.14}
+\contentsline {subsection}{\hbox to\@tempdima {1.1.12\hfil } Pobreza extrema rural}{24}{section*.14}
 \thispagestyle {estandar}
-\contentsline {subsection}{\hbox to\@tempdima {1.0.13\hfil } PET }{26}{section*.15}
+\contentsline {subsection}{\hbox to\@tempdima {1.1.13\hfil } PET }{25}{section*.15}
 \thispagestyle {estandar}
-\contentsline {subsection}{\hbox to\@tempdima {1.0.14\hfil } PEA }{26}{section*.16}
+\contentsline {subsection}{\hbox to\@tempdima {1.1.14\hfil } PEA }{25}{section*.16}
 \thispagestyle {estandar}
-\contentsline {subsection}{\hbox to\@tempdima {1.0.15\hfil } Población ocupada }{27}{section*.17}
+\contentsline {subsection}{\hbox to\@tempdima {1.1.15\hfil } Población ocupada }{26}{section*.17}
 \thispagestyle {estandar}
-\contentsline {subsection}{\hbox to\@tempdima {1.0.16\hfil } Participación por dominio}{27}{section*.18}
+\contentsline {subsection}{\hbox to\@tempdima {1.1.16\hfil } Participación por dominio}{26}{section*.18}
 \thispagestyle {estandar}
-\contentsline {subsection}{\hbox to\@tempdima {1.0.17\hfil } Tasa de participación, según sexo}{28}{section*.19}
+\contentsline {subsection}{\hbox to\@tempdima {1.1.17\hfil } Tasa de participación, según sexo}{27}{section*.19}
 \thispagestyle {estandar}
 \addvspace {0.6\baselineskip }\color {color1}
 \contentsline {chapter}{\hbox to\@tempdima {2\hfil }Disponibilidad de alimentos}{29}{section*.20}
@@ -144,104 +145,111 @@
 \contentsline {chapter}{\hbox to\@tempdima {5\hfil }Utilización biológica de los alimentos}{59}{section*.63}
 \addvspace {0.2\baselineskip }{\color {color2}\hrule height 0.9pt} \vskip 0.6\baselineskip \relax \color {black}
 \color {black}\vskip 0.2\baselineskip \relax 
-\contentsline {subsection}{\hbox to\@tempdima {5.0.1\hfil } Diarrea}{61}{section*.64}
+\contentsline {section}{\hbox to\@tempdima {5.1\hfil } Morbilidad relacionada}{61}{figure.5.1}
+\contentsline {subsection}{\hbox to\@tempdima {5.1.1\hfil } Diarrea}{61}{section*.64}
 \thispagestyle {estandar}
-\contentsline {subsection}{\hbox to\@tempdima {5.0.2\hfil } Diarrea según sexo}{61}{section*.65}
+\contentsline {subsection}{\hbox to\@tempdima {5.1.2\hfil } Diarrea según sexo}{61}{section*.65}
 \thispagestyle {estandar}
-\contentsline {subsection}{\hbox to\@tempdima {5.0.3\hfil } Casos de diarrea por departamento}{62}{section*.66}
+\contentsline {subsection}{\hbox to\@tempdima {5.1.3\hfil } Casos de diarrea por departamento}{62}{section*.66}
 \thispagestyle {estandar}
-\contentsline {subsection}{\hbox to\@tempdima {5.0.4\hfil } Infecciones respiratorias agudas}{63}{section*.67}
+\contentsline {subsection}{\hbox to\@tempdima {5.1.4\hfil } Infecciones Respiratorias Agudas (IRA)}{63}{section*.67}
 \thispagestyle {estandar}
-\contentsline {subsection}{\hbox to\@tempdima {5.0.5\hfil } Infecciones respiratorias agudas según sexo}{63}{section*.68}
+\contentsline {subsection}{\hbox to\@tempdima {5.1.5\hfil } Infecciones respiratorias agudas según sexo}{63}{section*.68}
 \thispagestyle {estandar}
-\contentsline {subsection}{\hbox to\@tempdima {5.0.6\hfil } Casos de IRA por departamento}{64}{section*.69}
+\contentsline {subsection}{\hbox to\@tempdima {5.1.6\hfil } Casos de IRA por departamento}{64}{section*.69}
 \thispagestyle {estandar}
-\contentsline {subsection}{\hbox to\@tempdima {5.0.7\hfil } Asistencia prenatal}{65}{section*.70}
+\contentsline {section}{\hbox to\@tempdima {5.2\hfil } Acceso a servicios de Salud}{65}{example.63}
+\contentsline {subsection}{\hbox to\@tempdima {5.2.1\hfil } Asistencia prenatal}{65}{section*.70}
 \thispagestyle {estandar}
-\contentsline {subsection}{\hbox to\@tempdima {5.0.8\hfil } Asistencia en el parto}{65}{section*.71}
+\contentsline {subsection}{\hbox to\@tempdima {5.2.2\hfil } Asistencia en el parto}{65}{section*.71}
 \thispagestyle {estandar}
-\contentsline {subsection}{\hbox to\@tempdima {5.0.9\hfil } Niños que reciben alguna vacuna o desparasitante}{66}{section*.72}
+\contentsline {subsection}{\hbox to\@tempdima {5.2.3\hfil } Niños que reciben alguna vacuna o desparasitante}{66}{section*.72}
 \thispagestyle {estandar}
-\contentsline {subsection}{\hbox to\@tempdima {5.0.10\hfil } Tasa Global de Fecundidad}{66}{section*.73}
+\contentsline {subsection}{\hbox to\@tempdima {5.2.4\hfil } Tasa Global de Fecundidad (TGF)}{66}{section*.73}
 \thispagestyle {estandar}
-\contentsline {subsection}{\hbox to\@tempdima {5.0.11\hfil } Tasa Global de Fecundidad, por área de residencia}{67}{section*.74}
+\contentsline {subsection}{\hbox to\@tempdima {5.2.5\hfil } Tasa Global de Fecundidad, por área de residencia}{67}{section*.74}
 \thispagestyle {estandar}
-\contentsline {subsection}{\hbox to\@tempdima {5.0.12\hfil } Acceso a agua}{68}{section*.75}
+\contentsline {section}{\hbox to\@tempdima {5.3\hfil } Acceso a servicios básicos}{68}{example.68}
+\contentsline {subsection}{\hbox to\@tempdima {5.3.1\hfil } Acceso a agua}{68}{section*.75}
 \thispagestyle {estandar}
-\contentsline {subsection}{\hbox to\@tempdima {5.0.13\hfil } Acceso a servicios de saneamiento}{69}{section*.76}
+\contentsline {subsection}{\hbox to\@tempdima {5.3.2\hfil } Acceso a servicios de saneamiento}{69}{section*.76}
 \thispagestyle {estandar}
-\contentsline {subsection}{\hbox to\@tempdima {5.0.14\hfil } Viviendas y acceso al agua}{70}{section*.77}
+\contentsline {section}{\hbox to\@tempdima {5.4\hfil } Vivienda}{70}{example.70}
+\contentsline {subsection}{\hbox to\@tempdima {5.4.1\hfil } Viviendas y acceso al agua}{70}{section*.77}
 \thispagestyle {estandar}
-\contentsline {subsection}{\hbox to\@tempdima {5.0.15\hfil } Viviendas y acceso a drenajes}{70}{section*.78}
+\contentsline {subsection}{\hbox to\@tempdima {5.4.2\hfil } Viviendas y acceso a drenajes}{70}{section*.78}
 \thispagestyle {estandar}
-\contentsline {subsection}{\hbox to\@tempdima {5.0.16\hfil } Viviendas formales }{71}{section*.79}
+\contentsline {subsection}{\hbox to\@tempdima {5.4.3\hfil } Viviendas formales }{71}{section*.79}
 \thispagestyle {estandar}
-\contentsline {subsection}{\hbox to\@tempdima {5.0.17\hfil } Hogares que viven en hacinamiento en los departamentos}{72}{section*.80}
+\contentsline {subsection}{\hbox to\@tempdima {5.4.4\hfil } Hogares que viven en hacinamiento en los departamentos}{72}{section*.80}
 \thispagestyle {estandar}
-\contentsline {subsection}{\hbox to\@tempdima {5.0.18\hfil } Viviendas con pared de block }{73}{section*.81}
+\contentsline {subsection}{\hbox to\@tempdima {5.4.5\hfil } Viviendas con pared de block }{73}{section*.81}
 \thispagestyle {estandar}
-\contentsline {subsection}{\hbox to\@tempdima {5.0.19\hfil } Viviendas con techo de lámina }{73}{section*.82}
+\contentsline {subsection}{\hbox to\@tempdima {5.4.6\hfil } Viviendas con techo de lámina }{73}{section*.82}
 \thispagestyle {estandar}
-\contentsline {subsection}{\hbox to\@tempdima {5.0.20\hfil } Viviendas y material del piso}{74}{section*.83}
+\contentsline {subsection}{\hbox to\@tempdima {5.4.7\hfil } Viviendas y material del piso}{74}{section*.83}
 \thispagestyle {estandar}
 \addvspace {0.6\baselineskip }\color {color1}
 \contentsline {chapter}{\hbox to\@tempdima {6\hfil }Situación y atención a la desnutrición o malnutrición}{75}{section*.84}
 \addvspace {0.2\baselineskip }{\color {color2}\hrule height 0.9pt} \vskip 0.6\baselineskip \relax \color {black}
 \color {black}\vskip 0.2\baselineskip \relax 
-\contentsline {subsection}{\hbox to\@tempdima {6.0.1\hfil } Mujeres con anemia }{77}{section*.85}
+\contentsline {section}{\hbox to\@tempdima {6.1\hfil } Situación nutricional de la madre}{77}{figure.6.1}
+\contentsline {subsection}{\hbox to\@tempdima {6.1.1\hfil } Mujeres con anemia }{77}{section*.85}
 \thispagestyle {estandar}
-\contentsline {subsection}{\hbox to\@tempdima {6.0.2\hfil } IMC de mujeres }{77}{section*.86}
+\contentsline {subsection}{\hbox to\@tempdima {6.1.2\hfil } Índice de Masa Corporal (IMC) de mujeres }{77}{section*.86}
 \thispagestyle {estandar}
-\contentsline {subsection}{\hbox to\@tempdima {6.0.3\hfil } IMC de mujeres, según área de residencia }{78}{section*.87}
+\contentsline {subsection}{\hbox to\@tempdima {6.1.3\hfil } IMC de mujeres, según área de residencia }{78}{section*.87}
 \thispagestyle {estandar}
-\contentsline {subsection}{\hbox to\@tempdima {6.0.4\hfil } Talla promedio según área de residencia }{78}{section*.88}
+\contentsline {subsection}{\hbox to\@tempdima {6.1.4\hfil } Talla promedio según área de residencia }{78}{section*.88}
 \thispagestyle {estandar}
-\contentsline {subsection}{\hbox to\@tempdima {6.0.5\hfil } Peso de niños recién nacidos }{79}{section*.89}
+\contentsline {section}{\hbox to\@tempdima {6.2\hfil } Situación nutricional del niño}{79}{example.81}
+\contentsline {subsection}{\hbox to\@tempdima {6.2.1\hfil } Peso de niños recién nacidos }{79}{section*.89}
 \thispagestyle {estandar}
-\contentsline {subsection}{\hbox to\@tempdima {6.0.6\hfil } Desnutrición global }{79}{section*.90}
+\contentsline {subsection}{\hbox to\@tempdima {6.2.2\hfil } Desnutrición global }{79}{section*.90}
 \thispagestyle {estandar}
-\contentsline {subsection}{\hbox to\@tempdima {6.0.7\hfil } Desnutrición aguda }{80}{section*.91}
+\contentsline {subsection}{\hbox to\@tempdima {6.2.3\hfil } Desnutrición aguda }{80}{section*.91}
 \thispagestyle {estandar}
-\contentsline {subsection}{\hbox to\@tempdima {6.0.8\hfil } Desnutrición crónica }{80}{section*.92}
+\contentsline {subsection}{\hbox to\@tempdima {6.2.4\hfil } Desnutrición crónica }{80}{section*.92}
 \thispagestyle {estandar}
-\contentsline {subsection}{\hbox to\@tempdima {6.0.9\hfil } Niños con anemia }{81}{section*.93}
+\contentsline {subsection}{\hbox to\@tempdima {6.2.5\hfil } Niños con anemia }{81}{section*.93}
 \thispagestyle {estandar}
-\contentsline {subsection}{\hbox to\@tempdima {6.0.10\hfil } Niños con anemia por departamento }{82}{section*.94}
+\contentsline {subsection}{\hbox to\@tempdima {6.2.6\hfil } Niños con anemia por departamento }{82}{section*.94}
 \thispagestyle {estandar}
 \addvspace {0.6\baselineskip }\color {color1}
 \contentsline {chapter}{\hbox to\@tempdima {7\hfil }Inversión pública en SAN }{83}{section*.95}
 \addvspace {0.2\baselineskip }{\color {color2}\hrule height 0.9pt} \vskip 0.6\baselineskip \relax \color {black}
 \color {black}\vskip 0.2\baselineskip \relax 
-\contentsline {subsection}{\hbox to\@tempdima {7.0.1\hfil } Asignación presupuestaria a la Sesan }{85}{section*.96}
+\contentsline {section}{\hbox to\@tempdima {7.1\hfil } Integración del presupuesto en SAN del plan del pacto Hambre Cero a nivel nacional}{85}{figure.7.1}
+\contentsline {subsection}{\hbox to\@tempdima {7.1.1\hfil } Tasa de Asignación presupuestaria en Seguridad Alimentaria y Nutricional (SAN), del Pacto Hambre Cero (PH0) años 2012 a 2015 }{85}{section*.96}
 \thispagestyle {estandar}
-\contentsline {subsection}{\hbox to\@tempdima {7.0.2\hfil } Ejecución presupuestaria de la Sesan }{85}{section*.97}
+\contentsline {subsection}{\hbox to\@tempdima {7.1.2\hfil } Ejecución presupuestaria en Seguridad Alimentaria y Nutricional (SAN), del Pacto Hambre Cero (PH0)}{85}{section*.97}
 \thispagestyle {estandar}
-\contentsline {subsection}{\hbox to\@tempdima {7.0.3\hfil } Detalle de gasto de la Sesan }{86}{section*.98}
+\contentsline {subsection}{\hbox to\@tempdima {7.1.3\hfil } Detalle de presupuesto asignado del plan del Pacto Hambre Cero (PPH0) }{86}{section*.98}
 \thispagestyle {estandar}
-\contentsline {subsection}{\hbox to\@tempdima {7.0.4\hfil } Asignación presupuestaria a la ventana de los mil días}{86}{section*.99}
+\contentsline {subsection}{\hbox to\@tempdima {7.1.4\hfil } Asignación presupuestaria a la Ventana de los Mil Días}{86}{section*.99}
 \thispagestyle {estandar}
-\contentsline {subsection}{\hbox to\@tempdima {7.0.5\hfil } Gasto Programa Ventana de los Mil Días}{87}{section*.100}
+\contentsline {subsection}{\hbox to\@tempdima {7.1.5\hfil } Gasto Programa Ventana de los Mil Días}{87}{section*.100}
 \thispagestyle {estandar}
 \addvspace {0.6\baselineskip }
-\contentsline {chapter}{APÉNDICES}{89}{example.92}
+\contentsline {chapter}{APÉNDICES}{91}{Item.14}
 \addvspace {0.6\baselineskip }\color {color1}
-\contentsline {chapter}{\hbox to\@tempdima {A\hfil }Proyecciones de población}{91}{section*.101}
+\contentsline {chapter}{\hbox to\@tempdima {A\hfil }Proyecciones de población}{93}{section*.101}
 \color {black}\vskip 0.2\baselineskip \relax 
 \addvspace {0.6\baselineskip }\color {color1}
-\contentsline {chapter}{\hbox to\@tempdima {B\hfil }Disponibilidad de alimentos. (Dimensión 2)}{109}{section*.102}
+\contentsline {chapter}{\hbox to\@tempdima {B\hfil }Disponibilidad de alimentos. (Dimensión 2)}{111}{section*.102}
 \color {black}\vskip 0.2\baselineskip \relax 
 \addvspace {0.6\baselineskip }\color {color1}
-\contentsline {chapter}{\hbox to\@tempdima {C\hfil }Acceso a los alimentos (Dimensión 2)}{119}{section*.103}
+\contentsline {chapter}{\hbox to\@tempdima {C\hfil }Acceso a los alimentos (Dimensión 2)}{121}{section*.103}
 \color {black}\vskip 0.2\baselineskip \relax 
 \addvspace {0.6\baselineskip }\color {color1}
-\contentsline {chapter}{\hbox to\@tempdima {D\hfil }Consumo de los alimentos. (Dimensión 3)}{129}{section*.104}
+\contentsline {chapter}{\hbox to\@tempdima {D\hfil }Consumo de los alimentos. (Dimensión 3)}{131}{section*.104}
 \color {black}\vskip 0.2\baselineskip \relax 
 \addvspace {0.6\baselineskip }\color {color1}
-\contentsline {chapter}{\hbox to\@tempdima {E\hfil }Utilización biológica de los alimentos (Dimensión 5)}{137}{section*.105}
+\contentsline {chapter}{\hbox to\@tempdima {E\hfil }Utilización biológica de los alimentos (Dimensión 5)}{139}{section*.105}
 \color {black}\vskip 0.2\baselineskip \relax 
 \addvspace {0.6\baselineskip }\color {color1}
-\contentsline {chapter}{\hbox to\@tempdima {F\hfil }Situación y atención a la desnutrición/malnutrición (Dimensión 6)}{181}{section*.106}
+\contentsline {chapter}{\hbox to\@tempdima {F\hfil }Situación y atención a la desnutrición/malnutrición (Dimensión 6)}{177}{section*.106}
 \color {black}\vskip 0.2\baselineskip \relax 
 \addvspace {0.6\baselineskip }\color {color1}
-\contentsline {chapter}{\hbox to\@tempdima {G\hfil }Inversión pública en SAN}{189}{section*.107}
+\contentsline {chapter}{\hbox to\@tempdima {G\hfil }Inversión pública en SAN}{185}{section*.107}
 \color {black}\vskip 0.2\baselineskip \relax 
