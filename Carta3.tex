@@ -14,6 +14,7 @@
 
 %Agregado por Hugo
 \usepackage{color}
+\usepackage{adjustbox}
 %agregado por FAbioa
 
 	\usepackage{dcolumn}
@@ -124,6 +125,9 @@ BoldItalicFont = OpenSans-CondLightItalic.ttf ]{OpenSans-CondLight.ttf}
 \makeatother
 
 \renewcommand{\thesubsection}{\thechapter.\arabic{section}.\arabic{subsection}}
+
+\renewcommand{\thesection}{\thechapter.\arabic{section}}
+
 
 \cftsetpnumwidth{2\cuadri}
 \cftsetrmarg{8\cuadri}
@@ -347,7 +351,7 @@ BoldItalicFont = OpenSans-CondLightItalic.ttf ]{OpenSans-CondLight.ttf}
 & &\\[0.5\cuadri]
 \begin{descripcion-cajita}
 \parskip 6pt\parindent 1em%
-#3
+#3 (Figura \thesubsection)
 \end{descripcion-cajita}
   & &
 \begin{grafica-cajita}
@@ -359,7 +363,7 @@ BoldItalicFont = OpenSans-CondLightItalic.ttf ]{OpenSans-CondLight.ttf}
 #6
 \begin{flushleft}
 $\ $\\[-2\cuadri]
-\ \ \ \footnotesize Fuente: #7
+\ \ \ \footnotesize Fuente: #7.
 \end{flushleft}
 \end{center}
 \end{grafica-cajita}
@@ -375,7 +379,7 @@ $\ $\\[-2\cuadri]
 & &\\[0.5\cuadri]
 \begin{descripcion-cajita}
 \parskip 6pt\parindent 1em%
-#3
+#3 (Figura \thesubsection)
 \end{descripcion-cajita}
   & &
 \begin{grafica-cajita}
@@ -387,7 +391,7 @@ $\ $\\[-2\cuadri]
 #6
 \begin{flushleft}
 $\ $\\[-2\cuadri]
-\ \ \ \footnotesize Fuente: #7
+\ \ \ \footnotesize Fuente: #7.
 \end{flushleft}
 \end{center}
 \end{grafica-cajita}
@@ -414,14 +418,14 @@ $\ $\\[-2\cuadri]
 #6
 \begin{flushleft}
 $\ $\\[-2\cuadri]
-\ \ \ \footnotesize Fuente: #7
+\ \ \ \footnotesize Fuente: #7.
 \end{flushleft}
 \end{center}
 \end{grafica-cajita}
   & &
 \begin{descripcion-cajita}
 \parskip 6pt\parindent 1em%
-#3
+#3 (Figura \thesubsection)
 \end{descripcion-cajita}
 \end{tabular}
 }}
@@ -442,14 +446,14 @@ $\ $\\[-2\cuadri]
 #6
 \begin{flushleft}
 $\ $\\[-2\cuadri]
-\ \ \ \footnotesize Fuente: #7
+\ \ \ \footnotesize Fuente: #7.
 \end{flushleft}
 \end{center}
 \end{grafica-cajita}
   & &
 \begin{descripcion-cajita}
 \parskip 6pt\parindent 1em%
-#3
+#3 (Figura \thesubsection)
 \end{descripcion-cajita}
 \end{tabular}
 }}
@@ -485,7 +489,7 @@ $\ $\\[-2\cuadri]
 & &\\[0.5\cuadri]
 \begin{descripcion-cajita}
 \parskip 6pt\parindent 1em%
-#3
+#3 (Figura \thesubsection)
 \end{descripcion-cajita}
   & &
 \begin{grafica-cajita}
@@ -497,7 +501,7 @@ $\ $\\[-2\cuadri]
 #6
 \begin{flushleft}
 $\ $\\[-2\cuadri]
-\ \ \ \footnotesize Fuente: #7
+\ \ \ \footnotesize Fuente: #7.
 \end{flushleft}
 \end{center}
 \end{grafica-cajita}
@@ -513,7 +517,7 @@ $\ $\\[-2\cuadri]
 & &\\[0.5\cuadri]
 \begin{descripcion-cajita}
 \parskip 6pt\parindent 1em%
-#3
+#3 (Figura \thesubsection)
 \end{descripcion-cajita}
   & &
 \begin{grafica-cajita}
@@ -525,7 +529,7 @@ $\ $\\[-2\cuadri]
 #6
 \begin{flushleft}
 $\ $\\[-2\cuadri]
-\ \ \ \footnotesize Fuente: #7
+\ \ \ \footnotesize Fuente: #7.
 \end{flushleft}
 \end{center}
 \end{grafica-cajita}
@@ -552,14 +556,14 @@ $\ $\\[-2\cuadri]
 #6
 \begin{flushleft}
 $\ $\\[-2\cuadri]
-\ \ \ \footnotesize Fuente: #7
+\ \ \ \footnotesize Fuente: #7.
 \end{flushleft}
 \end{center}
 \end{grafica-cajita}
   & &
 \begin{descripcion-cajita}
 \parskip 6pt\parindent 1em%
-#3
+#3 (Figura \thesubsection)
 \end{descripcion-cajita}
 \end{tabular}
 }}
@@ -580,14 +584,14 @@ $\ $\\[-2\cuadri]
 #6
 \begin{flushleft}
 $\ $\\[-2\cuadri]
-\ \ \ \footnotesize Fuente: #7
+\ \ \ \footnotesize Fuente: #7.
 \end{flushleft}
 \end{center}
 \end{grafica-cajita}
   & &
 \begin{descripcion-cajita}
 \parskip 6pt\parindent 1em%
-#3
+#3 (Figura \thesubsection)
 \end{descripcion-cajita}
 \end{tabular}
 }}
@@ -634,14 +638,14 @@ $\ $\\[-2\cuadri]
 						\begin{tabular}{l}
 							#6\\[4mm]
 							$\ $\\[-3.5mm]
-							{\footnotesize $\ \ \ $Fuente: \lafuente}
+							{\footnotesize $\ \ \ $Fuente: \lafuente .}
 						\end{tabular}
 					\end{center}
 				\end{grafica-cajita}
 				& &
 				\begin{descripcion-cajita}
 					\parskip 6pt\parindent 1em%
-					#3
+					#3 (Figura \thesubsection)
 				\end{descripcion-cajita}
 			\end{tabular}
 		}}
@@ -663,14 +667,14 @@ $\ $\\[-2\cuadri]
 							\begin{tabular}{l}
 								#6\\[4mm]
 								$\ $\\[-3.5mm]
-								{\footnotesize $\ \ \ $Fuente: \lafuente}
+								{\footnotesize $\ \ \ $Fuente: \lafuente .}
 							\end{tabular}
 						\end{center}
 					\end{grafica-cajita}
 					& &
 					\begin{descripcion-cajita}
 						\parskip 6pt\parindent 1em%
-						#3
+						#3 (Figura \thesubsection)
 					\end{descripcion-cajita}
 				\end{tabular}
 			}}
@@ -688,7 +692,7 @@ $\ $\\[-2\cuadri]
 				& &\\[0.5\cuadri]
 				\begin{descripcion-cajita}
 					\parskip 6pt\parindent 1em%
-					#3
+					#3 (Figura \thesubsection)
 				\end{descripcion-cajita}
 				& &
 				\begin{grafica-cajita}
@@ -701,7 +705,7 @@ $\ $\\[-2\cuadri]
 						\begin{tabular}{l}
 							#6\\[4mm]
 							$\ $\\[-3.5mm]
-							{\footnotesize $\ \ \ $Fuente: \lafuente}
+							{\footnotesize $\ \ \ $Fuente: \lafuente .}
 						\end{tabular}
 					\end{center}
 				\end{grafica-cajita}
@@ -717,7 +721,7 @@ $\ $\\[-2\cuadri]
 					& &\\[0.5\cuadri]
 					\begin{descripcion-cajita}
 						\parskip 6pt\parindent 1em%
-						#3
+						#3 (Figura \thesubsection)
 					\end{descripcion-cajita}
 					& &
 					\begin{grafica-cajita}
@@ -730,7 +734,7 @@ $\ $\\[-2\cuadri]
 							\begin{tabular}{l}
 								#6\\[4mm]
 								$\ $\\[-3.5mm]
-								{\footnotesize $\ \ \ $Fuente: \lafuente}
+								{\footnotesize $\ \ \ $Fuente: \lafuente .}
 							\end{tabular}
 						\end{center}
 					\end{grafica-cajita}
@@ -773,7 +777,7 @@ $\ $\\[-2\cuadri]
 \parskip 6pt\parindent 2em%
 $\ $\\
 
-#3$\ $\\[-1\cuadri]
+#3(Figura \thesubsection)$\ $\\[-1\cuadri]
 
 \begin{center}
 \example{#4}
@@ -783,7 +787,7 @@ $\ $\\
 #6
 \begin{flushright}
 $\ $\\[-1.5\cuadri]
-\footnotesize Fuente: #7 $\ \ \ $ 
+\footnotesize Fuente: #7. $\ \ \ $ 
 \end{flushright}
 \end{center}
 $\ $\\[-3\cuadri]
@@ -825,7 +829,7 @@ $\ $\\[-3\cuadri]
 			\begin{tabular}{l}
 				#6\\[4mm]
 				$\ $\\[-3.5mm]
-				{\footnotesize $\ \ \ $Fuente: \lafuente}
+				{\footnotesize $\ \ \ $Fuente: \lafuente .}
 			\end{tabular}
 		\end{center}
 		$\ $\\[-3\cuadri]
